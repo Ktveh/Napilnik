@@ -8,7 +8,7 @@ public class Program
 		Store store = new Store();
 		store.Work();
 	}
-}
+} 
 
 public class Store
 {
